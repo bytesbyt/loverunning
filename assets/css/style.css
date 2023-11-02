@@ -92,7 +92,7 @@ main {
 
 /* Footer */
 #social-networks {
-    text-align; center;
+    text-align: center;
     padding: 20px 0;
     display: flex;
     justify-content: space-evenly;
